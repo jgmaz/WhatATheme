@@ -18,7 +18,8 @@ site-keywords: Site, Template, Theme
 favicon-url: 
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
+# heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
+# heroimage: /Users/jgmaz/Documents/GitHub/WhatATheme/assets/images/background.jpeg
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
@@ -38,23 +39,19 @@ github_username:  jgmaz
 google-analytics: UA-163806439-1
 
 # Disqus
-disqus-shortname: thedevslot
+# disqus-shortname: thedevslot
 
 # Name of the Author
 author-name: Jimmie Gmaz
 # URL for the Image of the Author
-author-image: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
+# author-image: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
+author-image: /WhatATheme/assets/images/headshot.jpeg
+
 # 60 Words About the Author
-author-about: I am a post-doctoral researcher in Juan Gallego's group in the Department of Bioengineering at Imperial College London. 
-
-Broadly, I am interested in understanding the neural dynamics that support flexible behaviour, and identifying activity patterns that have utility as biomarkers for future precision neurotherapeutics.
-
-My current focus is in combining detailed investigation of rodent behaviour with large-scale neural recordings and contemporary population-level analyses to gain insights into cortical and subcortical computations during feedback-mediated motor control.
-
-Previously, I completed my PhD at Dartmouth in the lab of Matthijs van der Meer where I studied the flexible processing of motivationally-relevant information in the rodent nucleus accumbens. Before Dartmouth, I started my research career with Bruce McKay at Wilfrid Laurier University where I investigated the effects of the abused solvent toluene on various aspects of neural function.
+author-about: I am a post-doctoral researcher in Juan Gallego's group in the Department of Bioengineering at Imperial College London. <br> <br> Broadly, I am interested in understanding the neural dynamics that support flexible behaviour, and identifying activity patterns that have utility as biomarkers for future precision neurotherapeutics. <br> <br> My current focus is in combining detailed investigation of rodent behaviour with large-scale neural recordings and contemporary population-level analyses to gain insights into cortical and subcortical computations during feedback-mediated motor control. <br> <br> Previously, I completed my PhD at Dartmouth in the lab of Matthijs van der Meer where I studied the flexible processing of motivationally-relevant information in the rodent nucleus accumbens. Before Dartmouth, I started my research career with Bruce McKay at Wilfrid Laurier University where I investigated the effects of the abused solvent toluene on various aspects of neural function.
 
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
-author-url: https://github.com/thedevslot
+author-url: https://scholar.google.com/citations?user=7NL96I4AAAAJ&hl=en
 
 # SASS
 sass:
