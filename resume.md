@@ -26,10 +26,10 @@ permalink: "/resume"
 <br />
 <a href="http://www.twitter.com/{{site.twitter_username}}" target="_blank" class="has-text-black"><i class="fab fa-twitter"></i> {{site.twitter_username}}</a>
 {% endunless %}
-{% unless site.github_username == '' %}
+<!-- {% unless site.github_username == '' %}
 <br />
 <a href="http://www.github.com/{{site.github_username}}" target="_blank" class="has-text-black"><i class="fab fa-github"></i> {{site.github_username}}</a>
-{% endunless %}
+{% endunless %} -->
 <br />
 <a href="/assets/images/Jimmie Gmaz - web CV.pdf" target="_blank" class="has-text-black"><i class="fas fa-file-pdf"></i> Full CV</a>
 </div>
