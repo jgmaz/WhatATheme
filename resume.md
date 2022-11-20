@@ -6,7 +6,7 @@ type: page
 categories: []
 tags: []
 author:
-  email: jim.gmazn@gmail.com
+  email: jim.gmaz@gmail.com
   display_name: Jimmie Gmaz
   first_name: Jimmie
   last_name: Gmaz
