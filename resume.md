@@ -87,7 +87,7 @@ I completed my PhD at Dartmouth College in the lab of <a href="http://www.vander
 
 * Designing, collecting, analyzing, and interpreting 3 primary datasets consisting of extracellular electrophysiological recordings during performance of <a href="https://elifesciences.org/articles/37275" target="_blank">freely-moving (rats)</a> or <a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001338" target="_blank">head-fixed (mice)</a> behaviours.
 
-* Data collection for various projects involving managing animal colonies, setting up experimental hardware, establishing behavioural tasks, writing Matlab scripts for experiment control, implanting electrode arrays, acquiring simultaneous behavioural and electrophysiology data, and performing histology on brain tissue.
+* Data collection for various projects involving managing animal colonies, setting up experimental hardware, establishing behavioural tasks, writing Matlab scripts for experiment control, building and implanting electrode arrays, acquiring simultaneous behavioural and electrophysiology data, and performing histology on brain tissue.
 
 * Data processing of various neural datasets in Matlab, including spike sorting, artifact detection in spiking and local field potential data, and filtering local field potentials into frequency bands of interest.
 
