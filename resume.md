@@ -129,7 +129,7 @@ See <a href="https://scholar.google.com/citations?hl=en&user=7NL96I4AAAAJ&view_o
 
 **Alexander Graham Bell CGS** - 2013 to 2016
 
-**Medal of Excellence (MSc Thesis)** - 2013
+**Medal of Academic Excellence (MSc Thesis)** - 2013
 
 **Ontario Graduate Scholarship** - 2011 to 2013
 
