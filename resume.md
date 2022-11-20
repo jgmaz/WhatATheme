@@ -69,7 +69,7 @@ Modulation of synaptic transmission at the perforant path-dentate gyrus synapse.
 
 **Imperial College London** - London, England, UK - September 2021 to Present
 
-I am currently doing postdoctoral work in <a href="https://beneuro.ic.ac.uk/" target="_blank">Juan Gallego's group</a> at Imperial College, where I am leading electrophysiology experiments of motor control in rodents, data analysis projects of population-level communication across brain regions, and collaborating on neuromodulatory studies of the central and peripheral nervous system. This work involves:
+I am currently doing postdoctoral work in <a href="https://beneuro.ic.ac.uk/" target="_blank">Juan Gallego's group</a> at Imperial College London, where I am leading electrophysiology experiments of motor control in rodents, data analysis projects of population-level communication across brain regions, and collaborating on neuromodulatory studies of the central and peripheral nervous system. This work involves:
 
 * Establishing in-house mouse electrophysiology experiments, including designing experiments, managing animal facility resources, generating experimental and surgical SOPs, setting up equipment, training lab personnel, and building relationships with veterinary and support staff.
 
@@ -83,7 +83,7 @@ I am currently doing postdoctoral work in <a href="https://beneuro.ic.ac.uk/" ta
 
 **Dartmouth College** - Hanover, New Hampshire, USA - 2015 to 2021
 
-I completed my PhD at Dartmouth in the lab of <a href="http://www.vandermeerlab.org/" target="_blank">Matthijs van der Meer</a> where I sought to integrate classical notions of the nucleus accumbens as a value- and motivation-centric region, with more contemporary evidence suggesting a role in certain aspects of behavioural flexibility. I started this work at the University of Waterloo in 2013 before moving to Darmouth in 2015. Some of my work experience includes:
+I completed my PhD at Dartmouth College in the lab of <a href="http://www.vandermeerlab.org/" target="_blank">Matthijs van der Meer</a> where I sought to integrate classical notions of the nucleus accumbens as a value- and motivation-centric region, with more contemporary evidence suggesting a role in certain aspects of behavioural flexibility. I started this work at the University of Waterloo in 2013 before moving to Darmouth in 2015. Some of my work experience includes:
 
 * Designing, collecting, analyzing, and interpreting 3 primary datasets consisting of extracellular electrophysiological recordings during performance of <a href="https://elifesciences.org/articles/37275" target="_blank">freely-moving (rats)</a> or <a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001338" target="_blank">head-fixed (mice)</a> behaviours.
 
