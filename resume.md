@@ -71,7 +71,7 @@ Modulation of synaptic transmission at the perforant path-dentate gyrus synapse.
 
 I am currently a post-doctoral research associate in <a href="https://beneuro.ic.ac.uk/" target="_blank">Juan Gallego's group</a>, where I am running an experiment focused on understanding circuit-wide contributions to feedback-mediated motor control. In addition, I am involved in the experimental validation team for a novel neural interface, as well as working on a data science project seeking to understand how population-level communication between regions is dependent upon task state.
 
-### PhD Candidate
+### Graduate Research Assistant
 
 **Dartmouth College** - Hanover, New Hampshire, USA - 2015 to 2021
 
