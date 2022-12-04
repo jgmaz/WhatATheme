@@ -71,7 +71,7 @@ Modulation of synaptic transmission at the perforant path-dentate gyrus synapse.
 
 I am currently doing postdoctoral work in <a href="https://beneuro.ic.ac.uk/" target="_blank">Juan Gallego's group</a> at Imperial College London, where I am leading electrophysiology experiments of motor control in rodents, data analysis projects of population-level communication across brain regions, and collaborating on neuromodulatory studies of the central and peripheral nervous system. This work involves:
 
-* Establishing in-house mouse electrophysiology experiments, including designing experiments, animal colony management, generating experimental and surgical SOPs, setting up equipment, training lab personnel, and building relationships with veterinary and support staff.
+* Establishing in-house mouse electrophysiology experiments, including designing experiments, resource management, animal colony management, generating experimental and surgical SOPs, setting up equipment, training lab personnel, and building relationships with veterinary and support staff.
 
 * Building Python data preprocessing pipelines to convert neural and behavioural data from collaborators into data structures compatible with lab codebase.
 
