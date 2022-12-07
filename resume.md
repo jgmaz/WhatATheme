@@ -12,7 +12,7 @@ author:
   last_name: Gmaz
 permalink: "/resume"
 ---
-# Neuroscientist
+# Research Scientist | Neuroscientist | Data Scientist
 
 <div class="column is-full is-size-4">
 {% unless site.email == '' %}
@@ -136,4 +136,4 @@ See <a href="https://scholar.google.com/citations?hl=en&user=7NL96I4AAAAJ&view_o
 
 <hr class="has-background-black" />
 
-Last updated August 2022
+Last updated December 2022
