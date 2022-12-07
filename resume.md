@@ -67,14 +67,14 @@ Modulation of synaptic transmission at the perforant path-dentate gyrus synapse.
 
 # Skills
 
-### Experimental
-* Experimental design, rats, mice, electrophysiology, behaviour, stereotaxic surgery, hardware, animal husbandry, histology
+** Experimental
+Experimental design, rats, mice, electrophysiology, behaviour, stereotaxic surgery, hardware, animal husbandry, histology
 
-### Data Science
-* Signal processing, wrangling, visualization, regression, PCA, decoding, classification, spike-field, Matlab, Python, GitHub
+** Data Science
+Signal processing, wrangling, visualization, regression, PCA, decoding, classification, spike-field, Matlab, Python, GitHub
 
-### General
-* Project management, problem solving, communication, teamwork, mentorship, technical writing
+** General
+Project management, problem solving, communication, teamwork, mentorship, technical writing
 
 # Professional Experience
 
