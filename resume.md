@@ -61,7 +61,9 @@ Modulation of synaptic transmission at the perforant path-dentate gyrus synapse.
 
 # Further Training
 
-**Neuromatch Academy** - July 2020
+### Computational Neuroscience course, 2020
+
+**Neuromatch Academy**
 
 # Professional Experience
 
