@@ -65,6 +65,17 @@ Modulation of synaptic transmission at the perforant path-dentate gyrus synapse.
 
 **Neuromatch Academy**
 
+# Skills
+
+### Experimental
+* Experimental design, rats, mice, electrophysiology, behaviour, stereotaxic surgery, hardware, animal husbandry, histology
+
+### Data Science
+* Signal processing, wrangling, visualization, regression, PCA, decoding, classification, spike-field, Matlab, Python, GitHub
+
+### General
+* Project management, problem solving, communication, teamwork, mentorship, technical writing
+
 # Professional Experience
 
 ### Research Associate
@@ -114,22 +125,6 @@ I started my research career with <a href="https://www.wlu.ca/academics/facultie
 * Designing, collecting, analysing, and interpreting (SPSS, Excel) data for a <a href="https://www.sciencedirect.com/science/article/abs/pii/S0304394013010835" target="_blank">patch clamp electrophysiology experiment</a>, an <a href="https://www.sciencedirect.com/science/article/abs/pii/S0892036212000542" target="_blank">extracellular electrophysiology experiment</a>, and a <a href="https://journals.lww.com/behaviouralpharm/Abstract/2012/10000/Binge_inhalation_of_toluene_vapor_produces.4.aspx" target="_blank">behavioural experiment</a> in rats. 
 
 * Assisting tissue processing for an <a href="https://www.sciencedirect.com/science/article/abs/pii/S0892036211002066" target="_blank">immediate early gene histology experiment</a>.
-
-# Technical Skills
-
-### Data Science
-* 5+ years of experience applying contemporary statistical methods to neuroscience datasets
-
-* Matlab, Python
-
-* Signal processing, regression, dimensionality reduction
-
-### Experimental
-* 10+ years of experience conducting electrophysiological and behavioural experiments in rodent models
-
-* Rats, mice
-
-* Behaviour, electrophysiology, stereotaxic surgery, experimental hardware
 
 # Publications
 
