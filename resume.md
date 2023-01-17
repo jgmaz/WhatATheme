@@ -77,7 +77,7 @@ Modulation of synaptic transmission at the perforant path-dentate gyrus synapse.
 
 **Imperial College London** - London, England, UK - September 2021 to Present
 
-I am currently doing postdoctoral work in <a href="https://beneuro.ic.ac.uk/" target="_blank">Juan Gallego's group</a> at Imperial College London, where I am leading experimental and data science projects of upper limb motor control in rodents, and collaborating on the validation of novel technologies. This work involves:
+I am currently doing postdoctoral work in <a href="https://beneuro.ic.ac.uk/" target="_blank">Juan Gallego's group</a> at Imperial College London, where I am leading experimental and data science projects of upper limb motor control in rodents, and collaborating on projects related to the validation of novel technologies. This work involves:
 
 * Establishing in-house mouse electrophysiology experiments, including designing experiments, resource management, animal colony management, generating experimental and surgical SOPs, setting up equipment, training lab personnel, and building relationships with veterinary and support staff.
 
