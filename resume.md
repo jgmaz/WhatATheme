@@ -73,7 +73,7 @@ Modulation of synaptic transmission at the perforant path-dentate gyrus synapse.
 
 # Professional Experience
 
-### Research Associate
+### Research Scientist
 
 **Imperial College London** - London, England, UK - September 2021 to Present
 
