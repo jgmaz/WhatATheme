@@ -73,7 +73,7 @@ Modulation of synaptic transmission at the perforant path-dentate gyrus synapse.
 
 # Professional Experience
 
-### Research Scientist
+### Postdoctoral Research Scientist
 
 **Imperial College London** - London, England, UK - September 2021 to Present
 
@@ -87,7 +87,7 @@ I am currently doing postdoctoral work in <a href="https://beneuro.ic.ac.uk/" ta
 
 * Co-supervising Master's students on data analysis projects using machine learning techniques to investigate relationships between neural signals and behaviour.
 
-### Graduate Research Assistant
+### Doctoral Research Scientist
 
 **Dartmouth College** - Hanover, New Hampshire, USA - 2015 to 2021
 
@@ -111,7 +111,7 @@ I completed my PhD at Dartmouth College in the lab of <a href="http://www.vander
 
 * Data collection and student training for a pilot experiment integrating extracellular recordings and fiber photometry, as part of assisting the 2019 mouse striatum module of the Marine Biological Laboratory's Neural Systems and Behavior course. 
 
-### Undergraduate & Graduate Research Assistant
+### Research Assistant
 
 **Wilfrid Laurier University** - Waterloo, Ontario, Canada - 2009 to 2013
 
