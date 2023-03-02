@@ -111,7 +111,7 @@ I completed my PhD at Dartmouth College in the lab of <a href="http://www.vander
 
 * Data collection and student training for a pilot experiment integrating extracellular recordings and fiber photometry, as part of assisting the 2019 mouse striatum module of the Marine Biological Laboratory's Neural Systems and Behavior course. 
 
-### Research Assistant
+### Research Scientist
 
 **Wilfrid Laurier University** - Waterloo, Ontario, Canada - 2009 to 2013
 
