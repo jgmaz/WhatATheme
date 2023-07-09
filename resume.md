@@ -79,13 +79,17 @@ Modulation of synaptic transmission at the perforant path-dentate gyrus synapse.
 
 I am currently doing postdoctoral work in <a href="https://beneuro.ic.ac.uk/" target="_blank">Juan Gallego's group</a> at Imperial College London, where I am leading experimental and data science projects of upper limb motor control in rodents, and collaborating on projects related to the validation of novel technologies. This work involves:
 
-* Establishing in-house mouse electrophysiology experiments, including designing experiments, resource management, animal colony management, generating experimental and surgical SOPs, setting up equipment, training lab personnel, and building relationships with veterinary and support staff.
+* Establishing in-house mouse electrophysiology experiments, including designing experiments, animal colony management, generating experimental and surgical SOPs, neural data collection, training lab personnel, and building relationships with veterinary and support staff.
 
-* Building Python data preprocessing pipelines to convert neural and behavioural data from collaborators into data structures compatible with lab codebase.
+* Developing Python data preprocessing, visualization and analysis pipelines using visualization, statistical and machine learning tools to understand relationships between populations of neurons and behaviour.
 
-* Developing Python data visualization and analysis pipelines using visualization, statistical and machine learning tools to investigate communication across brain regions.
+* Collaborating on terminal mouse experiments to test novel surface electrodes.
 
-* Co-supervising Master's students on data analysis projects using machine learning techniques to investigate relationships between neural signals and behaviour.
+* Designing a neuromodulation experiment to test a novel biomarker for adaptive deep brain stimulation in Parkinsonian mice.
+
+* Co-writing a paper on using a multi-timescale approach to study upper limb motor control.
+
+* Mentoring Master's students on data analysis projects using machine learning techniques to investigate relationships between neural signals and behaviour.
 
 ### Doctoral Research Scientist
 
