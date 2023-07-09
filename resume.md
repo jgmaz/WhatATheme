@@ -85,11 +85,11 @@ I am currently doing postdoctoral work in <a href="https://beneuro.ic.ac.uk/" ta
 
 * Collaborating on terminal mouse experiments to test novel surface electrodes.
 
-* Designing a neuromodulation experiment to test a novel biomarker for adaptive deep brain stimulation in Parkinsonian mice.
+* Designing a neuromodulation experiment to test a novel biomarker for adaptive deep brain stimulation.
 
-* Co-writing a paper on using a multi-timescale approach to study upper limb motor control.
+* Co-writing a perspective on using a multi-timescale approach to study upper limb motor control.
 
-* Mentoring Master's students on data analysis projects using machine learning techniques to investigate relationships between neural signals and behaviour.
+* Mentoring trainees on data analysis projects using machine learning techniques to investigate relationships between neural signals and behaviour.
 
 ### Doctoral Research Scientist
 
