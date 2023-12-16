@@ -77,15 +77,17 @@ Modulation of synaptic transmission at the perforant path-dentate gyrus synapse.
 
 **Imperial College London** - London, England, UK - September 2021 to Present
 
-I am currently doing postdoctoral work in <a href="https://beneuro.ic.ac.uk/" target="_blank">Juan Gallego's group</a> at Imperial College London, where I am leading experimental and data science projects of upper limb motor control in rodents, and collaborating on projects related to the validation of novel technologies. This work involves:
+I am currently doing postdoctoral work in <a href="https://beneuro.ic.ac.uk/" target="_blank">Juan Gallego's group</a> at Imperial College London, where I am leading experimental and data science projects of motor control in rodents, and collaborating on projects related to the validation of novel technologies. This work involves:
 
-* Establishing mouse electrophysiology experiments, including designing experiments, animal colony management, generating experimental and surgical SOPs, neural data collection, training lab personnel, and building relationships with veterinary and support staff.
+* Establishing mouse electrophysiology procedures, including designing experiments, animal colony management, generating experimental and surgical SOPs, neural data collection, training lab personnel, and building relationships with veterinary and support staff.
 
 * Developing Python data preprocessing, visualization and analysis pipelines using visualization, statistical and machine learning tools to understand relationships between populations of neurons and behaviour.
 
-* Collaborating on terminal mouse experiments to test novel surface electrodes.
+* Co-leading terminal mouse experiments testing components of a neural interface.
 
-* Co-writing a perspective on using a multi-timescale approach to study upper limb motor control.
+* Designing neuromodulation experiments to study corticostriatal function in motor control.
+
+* Co-writing a perspective on isolating the functional contributions of individual brain regions in motor control.
 
 * Mentoring trainees on data analysis projects using machine learning techniques to investigate relationships between neural signals and behaviour.
 
