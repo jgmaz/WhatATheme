@@ -85,7 +85,7 @@ I am currently doing postdoctoral work in <a href="https://beneuro.ic.ac.uk/" ta
 
 * Establishing mouse electrophysiology procedures, including designing experiments, animal colony management, generating experimental and surgical SOPs, neural data collection, training lab personnel, and building relationships with veterinary and support staff.
 
-* Writing a perspective on isolating the functional contributions of individual brain regions in motor control.
+* Writing a perspective on <a href="https://www.sciencedirect.com/science/article/pii/S0959438824000059" target="_blank">isolating the functional contributions of individual brain regions in motor control</a>.
 
 * Mentoring trainees on data analysis projects using machine learning techniques to investigate relationships between neural signals and behaviour.
 
