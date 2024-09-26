@@ -65,9 +65,9 @@ Modulation of synaptic transmission at the perforant path-dentate gyrus synapse.
 
 **NeuroTech Commercialization Workshop, February 2024** - University of Minnesota
 
-**Cleveland NeuroDesign Entrepreneurs Workshop** - Case Western Reserve University
+**Cleveland NeuroDesign Entrepreneurs Workshop, September 2023** - Case Western Reserve University
 
-**Resilient Leadership in Action** - Resilient Leaders Elements
+**Resilient Leadership in Action, March 2023** - Resilient Leaders Elements
 
 **Course in Computational Neuroscience, July 2020** - Neuromatch Academy
 
