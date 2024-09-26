@@ -43,10 +43,6 @@ permalink: "/resume"
 Thesis:
 Dynamic coding of motivationally-relevant information in the rodent nucleus accumbens.
 
-### Course in Computational Neuroscience, 2020
-
-**Neuromatch Academy**
-
 ### MSc in Behavioural Neuroscience, 2013
 
 **Wilfrid Laurier University** - Waterloo, Ontario, Canada
@@ -62,6 +58,28 @@ Minors in Biology and Chemistry
 
 Thesis:
 Modulation of synaptic transmission at the perforant path-dentate gyrus synapse.
+
+# Additional Training
+
+### Crick Innovation Challenge, July 2024
+
+**Crick Science Entrepreneur Network**
+
+### NeuroTech Commercialization Workshop, February 2024
+
+**University of Minnesota**
+
+### Cleveland NeuroDesign Entrepreneurs Workshop, September 2023
+
+**Case Western Reserve University**
+
+### Resilient Leadership in Action, March 2023
+
+**Resilient Leaders Elements**
+
+### Course in Computational Neuroscience, July 2020
+
+**Neuromatch Academy**
 
 # Skills
 
