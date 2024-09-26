@@ -61,25 +61,15 @@ Modulation of synaptic transmission at the perforant path-dentate gyrus synapse.
 
 # Additional Training
 
-### Crick Innovation Challenge, July 2024
+**Crick Innovation Challenge, July 2024** - Crick Science Entrepreneur Network
 
-**Crick Science Entrepreneur Network**
+**NeuroTech Commercialization Workshop, February 2024** - University of Minnesota
 
-### NeuroTech Commercialization Workshop, February 2024
+**Cleveland NeuroDesign Entrepreneurs Workshop** - Case Western Reserve University
 
-**University of Minnesota**
+**Resilient Leadership in Action** - Resilient Leaders Elements
 
-### Cleveland NeuroDesign Entrepreneurs Workshop, September 2023
-
-**Case Western Reserve University**
-
-### Resilient Leadership in Action, March 2023
-
-**Resilient Leaders Elements**
-
-### Course in Computational Neuroscience, July 2020
-
-**Neuromatch Academy**
+**Course in Computational Neuroscience, July 2020** - Neuromatch Academy
 
 # Skills
 
