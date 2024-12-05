@@ -12,7 +12,7 @@ author:
   last_name: Gmaz
 permalink: "/resume"
 ---
-# Research Scientist | Neuroscience, Neurotech & Data
+# Research Scientist
 
 <div class="column is-full is-size-4">
 {% unless site.email == '' %}
