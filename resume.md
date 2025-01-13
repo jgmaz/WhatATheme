@@ -87,6 +87,8 @@ Modulation of synaptic transmission at the perforant path-dentate gyrus synapse.
 
 I am currently doing postdoctoral work in <a href="https://beneuro.ic.ac.uk/" target="_blank">Juan Gallego's group</a> at Imperial College London, where I am involved in experimental and data science projects related to neurotechnology and the neuroscience of motor control. This work involves:
 
+* Piloting an experimental protocol for a mouse BCI task.
+
 * Developing Python data preprocessing, visualization, analysis and decoding pipelines to understand relationships between populations of neurons and kinematics.
 
 * Validating a novel µECoG array in a terminal mouse model.
